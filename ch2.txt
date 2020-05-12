@@ -1,1 +1,1 @@
-This is my second chapter to commit.
+This is my second chapter to commit. I am making new changes here.
